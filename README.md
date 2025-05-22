@@ -36,3 +36,6 @@ This project presents a comprehensive analysis of Twitter data using Power BI. I
 
 ## Task1
 ![image alt](https://github.com/jeevalaharini/internship.github.io/blob/60a965cd5db2aa632e16fa3a99bbfc965b8eaaa2/Screenshot%202025-05-22%20155149.png)
+
+## Task2
+![image alt] (https://github.com/jeevalaharini/internship.github.io/blob/be8bd524070c869aaf739596aa3a9633f641e146/Screenshot%202025-05-22%20153956.png)
