@@ -30,3 +30,6 @@ This project presents a comprehensive analysis of Twitter data using Power BI. I
 - Social media strategy optimization
 - Trend and sentiment monitoring
 - Content performance tracking
+
+ ## Training Project 
+![image alt](https://github.com/jeevalaharini/internship.github.io/blob/8ede2dce06cd8265c2a1a5bcd107c92b8f332202/Screenshot%202025-05-22%20153749.png)
