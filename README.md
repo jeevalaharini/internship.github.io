@@ -1,7 +1,7 @@
 
 # Twitter Analysis
 
-### Dashboard Link :https://app.powerbi.com/groups/412a9e7a-f321-4ef6-acb3-b11334fc1397/dashboards/c3761a43-0486-4567-9404-ecee3ff7b777?ctid=3e87b319-f0f8-4f68-ae54-1c7e84fedf53&pbi_source=linkShare
+### Dashboard Link :https://app.powerbi.com/links/xJVRlfnYKF?ctid=3e87b319-f0f8-4f68-ae54-1c7e84fedf53&pbi_source=linkShare
 
 # 📊 Twitter Analysis Dashboard (Power BI)
 
